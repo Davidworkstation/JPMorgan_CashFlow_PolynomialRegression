@@ -46,7 +46,7 @@ project-root/
 
 ├── png/ - Dashboard_Preview - Preview of dashboard.
 
-![Alt Text](JPMorgan_CashFlow_PolynomialRegression/JPMorgan_CashFlow_PolynomialRegression/Dashboard_Preview.png)
+![Alt Text](Dashboard_Preview.png)
 
 ├── requirements.txt - Project dependencies.
 
